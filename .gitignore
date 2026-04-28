@@ -1,0 +1,12 @@
+# Нейросети и тяжелые файлы
+*.pt
+models/*.pt
+evidence/
+# Твои фото и логи (приватность!)
+images/evidence/
+images/*.jpg
+security_log.csv
+
+# Служебное
+__pycache__/
+mediamtx
